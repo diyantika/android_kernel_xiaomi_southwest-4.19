@@ -3,7 +3,8 @@
 # Many parts of this script were taken from @REIGNZ, @idkwhoiam322 and @raphielscape . Huge thanks to them.
 
 # KernelSu
-curl -LSs "https://raw.githubusercontent.com/diyantika/KernelSU-Next/legacy-susfs-v2/kernel/setup.sh" | bash -s 
+#curl -LSs "https://raw.githubusercontent.com/diyantika/KernelSU-Next/legacy-susfs-v2/kernel/setup.sh" | bash -s 
+curl -LSs "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh" | bash
 
 # Some general variables
 PHONE="lavender"
